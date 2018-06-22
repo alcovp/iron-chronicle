@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Program 1",
+    "description": "This is the long-long description text of program. And so on and on and on. Okay?",
+    "jobs": [
+      {
+        "name": "Day1"
+      },
+      {
+        "name": "Day2"
+      },
+      {
+        "name": "SubProgram 1",
+        "days": [
+          "Day 3",
+          "Day 4",
+          "Day 5"
+        ]
+      },
+      {
+        "name": "Day6"
+      }
+    ]
+  },
+  {
+    "name": "Program 2",
+    "description": "This is the long-long description text of program. And so on and on and on. Okay?",
+    "jobs": [
+      {
+        "name": "Day1"
+      },
+      {
+        "name": "Day2"
+      },
+      {
+        "name": "Day3"
+      }
+    ]
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "date": "02.06.2018",
+    "comment": "Comment",
+    "name": "Day 1",
+    "description": "This is the long-long description text of something. And so on and on and on. Okay?",
+    "exercises": [
+      {
+        "name": "Exercise 1",
+        "description": "This is the long-long description text of something. And so on and on and on. Okay?",
+        "sets": [
+          {
+            "weight": 40,
+            "repeats": 10
+          },
+          {
+            "weight": 40,
+            "repeats": 10
+          },
+          {
+            "weight": 40,
+            "repeats": 10
+          }
+        ]
+      },
+      {
+        "name": "Exercise 2",
+        "description": "This is the long-long description text of something. And so on and on and on. Okay?",
+        "sets": [
+          {
+            "weight": 40,
+            "repeats": 10
+          },
+          {
+            "weight": 40,
+            "repeats": 10
+          },
+          {
+            "weight": 40,
+            "repeats": 10
+          }
+        ]
+      },
+      {
+        "name": "Exercise 3",
+        "description": "This is the long-long description text of something. And so on and on and on. Okay?",
+        "sets": [
+          {
+            "weight": 40,
+            "repeats": 10
+          },
+          {
+            "weight": 40,
+            "repeats": 10
+          },
+          {
+            "weight": 40,
+            "repeats": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "02.06.2018",
+    "comment": "Comment",
+    "name": "Day 2",
+    "description": "This is the long-long description text of something. And so on and on and on. Okay?",
+    "exercises": [
+      {
+        "name": "Exercise 1",
+        "description": "This is the long-long description text of something. And so on and on and on. Okay?",
+        "sets": [
+          {
+            "weight": 40,
+            "repeats": 10
+          },
+          {
+            "weight": 40,
+            "repeats": 10
+          }
+        ]
+      },
+      {
+        "name": "Exercise 2",
+        "description": "This is the long-long description text of something. And so on and on and on. Okay?",
+        "sets": [
+          {
+            "weight": 60,
+            "repeats": 6
+          },
+          {
+            "weight": 60,
+            "repeats": 6
+          }
+        ]
+      },
+      {
+        "name": "Exercise 3",
+        "description": "This is the long-long description text of something. And so on and on and on. Okay?",
+        "sets": [
+          {
+            "weight": 60,
+            "repeats": 6
+          },
+          {
+            "weight": 60,
+            "repeats": 6
+          }
+        ]
+      }
+    ]
+  }
+]
